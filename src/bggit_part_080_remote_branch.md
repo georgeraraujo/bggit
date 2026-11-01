@@ -287,7 +287,7 @@ You can select either branch and view it in the GitHub interface.
 [i[Branch-->Deleting remote]<]
 [i[Branch-->Deleting remote tracking]<]
 
-There are few things that can happen here.
+There are a few things that can happen here.
 
 1. Someone deletes the branch on the remote, but your corresponding
    remote tracking branch (the one on your clone) still exists and you
